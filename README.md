@@ -14,16 +14,12 @@
 - **Performance Analysis**  
   Explored buffering, throughput, and critical path in bundled-data pipelines.
 
----
-
 ## Technical Specs
 - Kernel size: **5 × 5**  
 - Input feature map: **25 × 25**  
 - Channels: **1 input, 1 output**  
 - Router: **5-port** (N/S/E/W + local)  
 - Routing: **Deterministic XY**
-
----
 
 ## Architecture Overview
 - **NoC:** 2×3 mesh of routers connecting 5 PEs, controller, and memory.  
