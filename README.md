@@ -1,5 +1,4 @@
 # Asynchronous-Spiking-CNN-Accelerator-with-Mesh-NoC
-# Asynchronous Spiking Convolutional Neural Network (SCNN)
 
 ## 🚀 Key Features
 - **Spiking CNN with output-stationary dataflow**  
